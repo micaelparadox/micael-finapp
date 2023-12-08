@@ -1,0 +1,57 @@
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Categoria {
+  id        Int        @id @default(autoincrement())
+  descricao String
+  Despesas  Despesa[]
+}
+
+model Pagamento {
+  id                  Int       @id @default(autoincrement())
+  dataVencimento      DateTime
+  valorPrevisto       Float
+  valorRealizado      Float
+  codigoBarraReferencia String?
+  status              String
+  Despesas            Despesa[]
+}
+
+model Receita {
+  id                Int            @id @default(autoincrement())
+  dataPagamento     DateTime
+  valorRecebido     Float
+  RegistroMensalId  Int?
+  RegistroMensal    RegistroMensal? @relation(fields: [RegistroMensalId], references: [id])
+}
+
+model Despesa {
+  id                Int       @id @default(autoincrement())
+  categoriaId       Int
+  pagamentoId       Int?
+  valorPrevisto     Float
+  valorRealizado    Float
+  dataPrevista      DateTime
+  status            String
+  Categoria         Categoria @relation(fields: [categoriaId], references: [id])
+  Pagamento         Pagamento? @relation(fields: [pagamentoId], references: [id])
+  RegistroMensalId  Int?
+  RegistroMensal    RegistroMensal? @relation(fields: [RegistroMensalId], references: [id])
+}
+
+model RegistroMensal {
+  id               Int        @id @default(autoincrement())
+  mes              String
+  ano              Int
+  totalReceitas    Float
+  totalDespesas    Float
+  saldoFinal       Float
+  Receitas         Receita[]
+  Despesas         Despesa[]
+}
