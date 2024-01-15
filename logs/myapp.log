@@ -1,0 +1,50 @@
+2024-01-14 12:27:29.124  INFO 26048 --- [main] f.pessoal.micael.MicaelApplication       : Starting MicaelApplication using Java 17.0.9 on mind with PID 26048 (C:\Users\a916765\Desktop\micael\target\classes started by a916765 in C:\Users\a916765\Desktop\micael)
+2024-01-14 12:27:29.131 DEBUG 26048 --- [main] f.pessoal.micael.MicaelApplication       : Running with Spring Boot v2.5.6, Spring v5.3.12
+2024-01-14 12:27:29.132  INFO 26048 --- [main] f.pessoal.micael.MicaelApplication       : No active profile set, falling back to default profiles: default
+2024-01-14 12:27:32.591  WARN 26048 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-14 12:27:33.066  INFO 26048 --- [main] f.pessoal.micael.MicaelApplication       : Started MicaelApplication in 4.406 seconds (JVM running for 5.401)
+2024-01-14 12:29:05.449  INFO 9468 --- [main] f.pessoal.micael.MicaelApplication       : Starting MicaelApplication using Java 17.0.9 on mind with PID 9468 (C:\Users\a916765\Desktop\micael\target\classes started by a916765 in C:\Users\a916765\Desktop\micael)
+2024-01-14 12:29:05.452 DEBUG 9468 --- [main] f.pessoal.micael.MicaelApplication       : Running with Spring Boot v2.5.6, Spring v5.3.12
+2024-01-14 12:29:05.453  INFO 9468 --- [main] f.pessoal.micael.MicaelApplication       : No active profile set, falling back to default profiles: default
+2024-01-14 12:29:16.051  WARN 9468 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-14 12:29:16.913  INFO 9468 --- [main] f.pessoal.micael.MicaelApplication       : Started MicaelApplication in 24.661 seconds (JVM running for 25.295)
+2024-01-14 12:29:38.746  INFO 10656 --- [main] f.pessoal.micael.MicaelApplication       : Starting MicaelApplication using Java 17.0.9 on mind with PID 10656 (C:\Users\a916765\Desktop\micael\target\classes started by a916765 in C:\Users\a916765\Desktop\micael)
+2024-01-14 12:29:38.749 DEBUG 10656 --- [main] f.pessoal.micael.MicaelApplication       : Running with Spring Boot v2.5.6, Spring v5.3.12
+2024-01-14 12:29:38.749  INFO 10656 --- [main] f.pessoal.micael.MicaelApplication       : No active profile set, falling back to default profiles: default
+2024-01-14 12:29:43.797  WARN 10656 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-14 12:29:44.577  INFO 10656 --- [main] f.pessoal.micael.MicaelApplication       : Started MicaelApplication in 6.383 seconds (JVM running for 7.004)
+2024-01-14 12:32:37.600  INFO 22164 --- [main] f.pessoal.micael.MicaelApplication       : Starting MicaelApplication using Java 17.0.9 on mind with PID 22164 (C:\Users\a916765\Desktop\micael\target\classes started by a916765 in C:\Users\a916765\Desktop\micael)
+2024-01-14 12:32:37.603 DEBUG 22164 --- [main] f.pessoal.micael.MicaelApplication       : Running with Spring Boot v2.5.6, Spring v5.3.12
+2024-01-14 12:32:37.604  INFO 22164 --- [main] f.pessoal.micael.MicaelApplication       : No active profile set, falling back to default profiles: default
+2024-01-14 12:32:42.509  WARN 22164 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-14 12:32:43.356  INFO 22164 --- [main] f.pessoal.micael.MicaelApplication       : Started MicaelApplication in 6.397 seconds (JVM running for 10.162)
+2024-01-14 12:33:15.187  INFO 25980 --- [main] f.pessoal.micael.MicaelApplication       : Starting MicaelApplication using Java 17.0.9 on mind with PID 25980 (C:\Users\a916765\Desktop\micael\target\classes started by a916765 in C:\Users\a916765\Desktop\micael)
+2024-01-14 12:33:15.191 DEBUG 25980 --- [main] f.pessoal.micael.MicaelApplication       : Running with Spring Boot v2.5.6, Spring v5.3.12
+2024-01-14 12:33:15.192  INFO 25980 --- [main] f.pessoal.micael.MicaelApplication       : No active profile set, falling back to default profiles: default
+2024-01-14 12:33:20.216  WARN 25980 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-14 12:33:21.069  INFO 25980 --- [main] f.pessoal.micael.MicaelApplication       : Started MicaelApplication in 6.363 seconds (JVM running for 6.925)
+2024-01-14 12:47:37.924  INFO 27204 --- [main] f.pessoal.micael.MicaelApplication       : Starting MicaelApplication using Java 17.0.9 on mind with PID 27204 (C:\Users\a916765\Desktop\micael\target\classes started by a916765 in C:\Users\a916765\Desktop\micael)
+2024-01-14 12:47:37.927 DEBUG 27204 --- [main] f.pessoal.micael.MicaelApplication       : Running with Spring Boot v2.5.6, Spring v5.3.12
+2024-01-14 12:47:37.927  INFO 27204 --- [main] f.pessoal.micael.MicaelApplication       : No active profile set, falling back to default profiles: default
+2024-01-14 12:47:43.423  WARN 27204 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-14 12:47:44.733  INFO 27204 --- [main] f.pessoal.micael.MicaelApplication       : Started MicaelApplication in 7.308 seconds (JVM running for 8.579)
+2024-01-14 12:49:16.815  INFO 1740 --- [main] f.pessoal.micael.MicaelApplication       : Starting MicaelApplication using Java 17.0.9 on mind with PID 1740 (C:\Users\a916765\Desktop\micael\target\classes started by a916765 in C:\Users\a916765\Desktop\micael)
+2024-01-14 12:49:16.818 DEBUG 1740 --- [main] f.pessoal.micael.MicaelApplication       : Running with Spring Boot v2.5.6, Spring v5.3.12
+2024-01-14 12:49:16.818  INFO 1740 --- [main] f.pessoal.micael.MicaelApplication       : No active profile set, falling back to default profiles: default
+2024-01-14 12:49:27.829  WARN 1740 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-14 12:49:28.610  INFO 1740 --- [main] f.pessoal.micael.MicaelApplication       : Started MicaelApplication in 12.373 seconds (JVM running for 13.066)
+2024-01-14 12:52:52.800  INFO 14480 --- [main] f.pessoal.micael.MicaelApplication       : Starting MicaelApplication using Java 17.0.9 on mind with PID 14480 (C:\Users\a916765\Desktop\micael\target\classes started by a916765 in C:\Users\a916765\Desktop\micael)
+2024-01-14 12:52:52.804 DEBUG 14480 --- [main] f.pessoal.micael.MicaelApplication       : Running with Spring Boot v2.5.6, Spring v5.3.12
+2024-01-14 12:52:52.804  INFO 14480 --- [main] f.pessoal.micael.MicaelApplication       : No active profile set, falling back to default profiles: default
+2024-01-14 12:52:57.305  WARN 14480 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-14 12:52:58.076  INFO 14480 --- [main] f.pessoal.micael.MicaelApplication       : Started MicaelApplication in 5.81 seconds (JVM running for 6.794)
+2024-01-15 17:23:08.162  INFO 3732 --- [main] f.pessoal.micael.MicaelApplication       : Starting MicaelApplication using Java 17.0.9 on micaelparad-micaelfinap-plf3r4lvpi2 with PID 3732 (/workspace/micael-finapp/target/classes started by gitpod in /workspace/micael-finapp)
+2024-01-15 17:23:08.164 DEBUG 3732 --- [main] f.pessoal.micael.MicaelApplication       : Running with Spring Boot v2.5.6, Spring v5.3.12
+2024-01-15 17:23:08.164  INFO 3732 --- [main] f.pessoal.micael.MicaelApplication       : No active profile set, falling back to default profiles: default
+2024-01-15 17:23:18.269  WARN 3732 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-15 17:23:19.346  INFO 3732 --- [main] f.pessoal.micael.MicaelApplication       : Started MicaelApplication in 12.189 seconds (JVM running for 12.953)
+2024-01-15 17:27:52.981  INFO 6634 --- [main] f.pessoal.micael.MicaelApplication       : Starting MicaelApplication using Java 17.0.9 on micaelparad-micaelfinap-plf3r4lvpi2 with PID 6634 (/workspace/micael-finapp/target/classes started by gitpod in /workspace/micael-finapp)
+2024-01-15 17:27:52.985 DEBUG 6634 --- [main] f.pessoal.micael.MicaelApplication       : Running with Spring Boot v2.5.6, Spring v5.3.12
+2024-01-15 17:27:52.985  INFO 6634 --- [main] f.pessoal.micael.MicaelApplication       : No active profile set, falling back to default profiles: default
+2024-01-15 17:28:17.061  WARN 6634 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-15 17:28:22.146  INFO 6634 --- [main] f.pessoal.micael.MicaelApplication       : Started MicaelApplication in 30.091 seconds (JVM running for 31.837)
